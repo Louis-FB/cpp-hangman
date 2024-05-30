@@ -1,2 +1,3 @@
 ﻿# cpp-hangman
-Compile and run.
+1. Compile
+2. Run
